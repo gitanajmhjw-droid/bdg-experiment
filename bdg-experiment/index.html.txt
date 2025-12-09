@@ -1,65 +1,59 @@
 <!DOCTYPE html>
-<html lang="hi"> <!-- Changed to Hindi -->
+<html lang="hi">
 <head>
-  <!-- Gray Hat 1: Multiple meta tags, aggressive keywords -->
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>🔥 BDG Game HACK 2025 - SECRET Trick to Earn ₹10,000 Daily | Official Login, APK Download, Winning Formula</title>
   <meta name="description" content="🚨EXPOSED: BDG Game SECRET Winning Method Google HATES! 100% Working Hack - Earn ₹5000-₹10000 Daily Proof Inside. BDG Game Login, Register, APK Download, Color Prediction TRICK, Withdrawal Hack, Bonus Trick, Referral Code 2025." />
   <meta name="keywords" content="BDG Game, BDG Game Hack, BDG Game Secret, BDG Game Trick, BDG Game Winning Formula, BDG Game Earning, BDG Game 2025, BDG Game Login, BDG Game Register, BDG Game APK Download, BDG Game Color Prediction, BDG Game Withdrawal, BDG Game Bonus, BDG Game Referral Code, BDG Game India, BDG Game Online, BDG Game Play, BDG Game App, BDG Game Review, BDG Game Strategy, BDG Game Tips" />
-  <link rel="canonical" href="https://yourusername.github.io/bdg-experiment/" />
+  <link rel="canonical" href="https://gitanajmhjw-droid.github.io/bdg-experiment/" />
   <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
 
-  <!-- Gray Hat 2: Fake updated timestamp -->
   <meta property="article:modified_time" content="2025-12-10T15:30:00Z" />
   <meta property="article:published_time" content="2025-12-01T10:00:00Z" />
 
-  <!-- Open Graph with clickbait -->
   <meta property="og:title" content="🚨 BDG Game SECRET 2025 - ₹10,000 Daily Earning PROOF!" />
   <meta property="og:description" content="Google BANNED This Trick! BDG Game Hack That Actually Works. See REAL Earning Proof Inside." />
-  <meta property="og:url" content="https://yourusername.github.io/bdg-experiment/" />
+  <meta property="og:url" content="https://gitanajmhjw-droid.github.io/bdg-experiment/" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://yourusername.github.io/bdg-experiment/images/bdg-hack-proof.jpg" />
+  <meta property="og:image" content="https://gitanajmhjw-droid.github.io/bdg-experiment/images/bdg-hack-proof.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta property="og:locale" content="hi_IN" />
 
-  <!-- Twitter with clickbait -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="BDG Game HACK 2025 - ₹10k/Day PROOF" />
   <meta name="twitter:description" content="SECRET BDG Trick Google Doesn't Want You to Know!" />
-  <meta name="twitter:image" content="https://yourusername.github.io/bdg-experiment/images/bdg-twitter-proof.jpg" />
+  <meta name="twitter:image" content="https://gitanajmhjw-droid.github.io/bdg-experiment/images/bdg-twitter-proof.jpg" />
 
-  <!-- Gray Hat 3: Over-optimized Schema Markup -->
   <script type="application/ld+json">
   {
     "@context":"https://schema.org",
     "@type":"WebSite",
     "name":"BDG Game SECRET Hack 2025 - ₹10,000 Daily",
-    "url":"https://yourusername.github.io/bdg-experiment/",
+    "url":"https://gitanajmhjw-droid.github.io/bdg-experiment/",
     "description":"EXPOSED: BDG Game Winning Formula That Google HATES. REAL Earning Proof ₹5000-₹10000 Daily.",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://yourusername.github.io/bdg-experiment/?q={search_term_string}",
+      "target": "https://gitanajmhjw-droid.github.io/bdg-experiment/?q={search_term_string}",
       "query-input": "required name=search_term_string"
     },
     "author": {
       "@type": "Person",
       "name": "BDG Expert",
-      "url": "https://yourusername.github.io/bdg-experiment/"
+      "url": "https://gitanajmhjw-droid.github.io/bdg-experiment/"
     },
     "publisher": {
       "@type": "Organization",
       "name": "BDG Secrets Lab",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://yourusername.github.io/bdg-experiment/logo.png"
+        "url": "https://gitanajmhjw-droid.github.io/bdg-experiment/logo.png"
       }
     }
   }
   </script>
 
-  <!-- Gray Hat 4: Extra FAQ Schema -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -82,10 +76,8 @@
   }
   </script>
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="https://yourusername.github.io/bdg-experiment/favicon.png" />
+  <link rel="icon" type="image/png" href="https://gitanajmhjw-droid.github.io/bdg-experiment/favicon.png" />
 
-  <!-- Preconnect + Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="dns-prefetch" href="https://fonts.googleapis.com">
@@ -95,10 +87,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
   </noscript>
 
-  <!-- Preload hero image -->
-  <link rel="preload" as="image" href="https://yourusername.github.io/bdg-experiment/hero-bdg.jpg">
+  <link rel="preload" as="image" href="https://gitanajmhjw-droid.github.io/bdg-experiment/hero-bdg.jpg">
 
-  <!-- Gray Hat 5: Hidden CSS with keywords in comments -->
   <style>
     /* BDG Game BDG Game Hack BDG Game Secret BDG Game Trick BDG Game Winning Formula BDG Game Earning 2025 BDG Game Login BDG Game Register BDG Game APK Download Color Prediction Hack India */
     :root{
@@ -125,10 +115,8 @@
       line-height:1.7;
     }
 
-    /* Container */
     .wrap{width:92%;max-width:var(--container);margin:0 auto}
 
-    /* Header */
     header{
       background:linear-gradient(90deg,var(--gold),var(--gold-2));
       color:#000;
@@ -141,7 +129,6 @@
     nav a{color:#000;text-decoration:none;margin-left:18px;font-weight:700}
     nav a:hover{opacity:.92}
 
-    /* Hero */
     .hero{
       padding:84px 0 64px;
       text-align:center;
@@ -152,9 +139,7 @@
     .hero p{max-width:920px;margin:10px auto 0;color:var(--muted);font-size:18px}
     .hero-art{position:absolute;right:-40px;top:6px;opacity:.12;pointer-events:none;transform-origin:center;animation:float 8s ease-in-out infinite}
 
-    /* CTA row */
     .cta-row{margin-top:28px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
-    /* Glass button base */
     .btn{
       display:inline-flex;
       align-items:center;
@@ -172,7 +157,6 @@
       box-shadow:0 10px 30px rgba(245,197,66,0.12);
       text-decoration:none;
     }
-    /* Glass effect wrapper for translucent button */
     .btn-glass{
       position:relative;
       padding:10px;
@@ -194,41 +178,33 @@
     .btn:active{transform:translateY(2px)}
     .btn:hover{transform:translateY(-4px);box-shadow:0 18px 48px rgba(245,197,66,0.32)}
 
-    /* Floating CTA (glass) */
     .float-cta{
       position:fixed;right:18px;bottom:18px;z-index:999;cursor:pointer;
       padding:10px;border-radius:999px;background:linear-gradient(90deg,var(--gold),var(--gold-2));
       box-shadow:0 20px 50px rgba(245,197,66,0.2);font-weight:900;color:#000;
     }
 
-    /* Sections */
     .section{padding:56px 0}
     .section h2{color:var(--gold);font-size:28px;margin-bottom:8px}
     .box{background:linear-gradient(180deg,var(--panel),#0a0a0a);padding:20px;border-radius:var(--radius);border:1px solid rgba(245,197,66,0.06);box-shadow:0 10px 40px rgba(0,0,0,0.6)}
     .muted{color:var(--muted)}
 
-    /* Grid features */
     .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:18px}
     .feature{padding:16px;border-radius:12px;border:1px solid rgba(245,197,66,0.06);min-height:120px;display:flex;flex-direction:column;justify-content:flex-start;gap:8px}
     .feature h4{margin:0;color:var(--gold);font-size:18px}
     .feature p{margin:0;color:var(--muted);font-size:15px}
 
-    /* Article / long content */
     .content-article{margin-top:18px;color:var(--muted);font-size:17px;line-height:1.9}
     .content-article h3{color:var(--gold);margin-top:18px}
     .content-article ul{margin-left:18px}
 
-    /* FAQ */
     details{background:transparent;border-radius:10px;padding:12px;border:1px solid rgba(255,255,255,0.03);margin-bottom:12px}
     summary{cursor:pointer;font-weight:700;color:var(--gold);outline:none}
 
-    /* Footer */
     footer{padding:26px 0;background:linear-gradient(90deg,var(--gold),var(--gold-2));color:#000;text-align:center;font-weight:800;margin-top:36px}
 
-    /* Keyframes */
     @keyframes float {0%{transform:translateY(0)}50%{transform:translateY(-12px)}100%{transform:translateY(0)}}
 
-    /* Responsive */
     @media(max-width:980px){.grid{grid-template-columns:repeat(2,1fr)}.hero h1{font-size:34px}}
     @media(max-width:700px){
       nav{display:none}
@@ -238,7 +214,6 @@
       .wrap{width:94%}
     }
     
-    /* Gray Hat 6: Hidden text for bots only */
     .bot-only{
       position:absolute;
       left:-9999px;
@@ -252,7 +227,6 @@
   </style>
 </head>
 <body>
-  <!-- Gray Hat 7: Hidden keywords for bots -->
   <div class="bot-only">
     BDG Game BDG Game Hack BDG Game Secret BDG Game Trick BDG Game Winning Formula BDG Game Earning 2025 
     BDG Game Login BDG Game Register BDG Game APK Download Color Prediction Hack India BDG Game Bonus 
@@ -260,7 +234,6 @@
     How to earn money from BDG Game BDG Game winning trick secret method
   </div>
 
-  <!-- Header -->
   <header>
     <div class="wrap header-inner" role="banner">
       <div class="logo">🚀 BDG GAME HACK 2025</div>
@@ -275,13 +248,11 @@
     </div>
   </header>
 
-  <!-- Hero with clickbait -->
   <main id="home" class="hero" role="main">
     <div class="wrap">
       <h1>🚨 BDG Game SECRET HACK 2025 - ₹10,000 Daily Earning PROOF!</h1>
       <p class="muted"><strong>EXPOSED:</strong> The BDG Game Winning Formula Google Doesn't Want You to Know! This SECRET Color Prediction Trick Actually Works - See REAL ₹5000-₹10000 Daily Earning Proof Below. Limited Time Access!</p>
 
-      <!-- CTA row with glass effect wrappers -->
       <div class="cta-row" role="region" aria-label="Primary actions">
         <span class="btn-glass" title="BDG Login/Register">
           <a class="btn" href="https://bdgipl.org//#/register?invitationCode=6412319845214" target="_blank" rel="noopener noreferrer">🚀 GET SECRET HACK</a>
@@ -296,7 +267,6 @@
         </span>
       </div>
 
-      <!-- trust badges with urgency -->
       <div style="margin-top:22px;color:var(--muted);font-size:14px">
         <span style="margin-right:12px">✅ 100% Working Hack</span>
         <span style="margin-right:12px">✅ ₹5000-₹10000 Daily Proof</span>
@@ -304,11 +274,9 @@
       </div>
     </div>
 
-    <!-- decorative hero art -->
-    <img class="hero-art" src="https://yourusername.github.io/bdg-experiment/hero-bdg.jpg" alt="BDG Game Hack Earning Proof" width="520" height="auto" loading="lazy">
+    <img class="hero-art" src="https://gitanajmhjw-droid.github.io/bdg-experiment/hero-bdg.jpg" alt="BDG Game Hack Earning Proof" width="520" height="auto" loading="lazy">
   </main>
 
-  <!-- SECRET HACK SECTION (Gray Hat Content) -->
   <section id="secret" class="section">
     <div class="wrap">
       <h2>🚨 THE BDG GAME SECRET HACK (Google HATES This!)</h2>
@@ -343,7 +311,6 @@
     </div>
   </section>
 
-  <!-- APK & Installation with urgency -->
   <section id="apk" class="section">
     <div class="wrap">
       <h2 id="apk-heading">📲 BDG HACK APK 2025 - SPECIAL Modified Version</h2>
@@ -377,7 +344,6 @@
     </div>
   </section>
 
-  <!-- EARNING PROOF SECTION -->
   <section id="proof" class="section">
     <div class="wrap">
       <h2>💰 REAL EARNING PROOF - ₹10,000+ Daily Screenshots</h2>
@@ -410,7 +376,6 @@
     </div>
   </section>
 
-  <!-- BONUS SECTION with scarcity -->
   <section id="bonus" class="section">
     <div class="wrap">
       <h2>🎁 LIMITED TIME BONUS - Hack + Tools Package</h2>
@@ -436,7 +401,6 @@
     </div>
   </section>
 
-  <!-- FAQ with aggressive claims -->
   <section id="faq" class="section">
     <div class="wrap">
       <h2>❓ BDG HACK FAQ - Your Questions ANSWERED</h2>
@@ -474,7 +438,6 @@
     </div>
   </section>
 
-  <!-- URGENT CTA SECTION -->
   <section id="urgent" class="section">
     <div class="wrap">
       <div style="background:linear-gradient(135deg, #ff0000, #ff6b6b);color:white;padding:25px;border-radius:15px;text-align:center;">
@@ -493,7 +456,6 @@
     </div>
   </section>
 
-  <!-- Contact / Support -->
   <section id="contact" class="section">
     <div class="wrap">
       <h2>📞 24/7 SUPPORT & UPDATES</h2>
@@ -509,7 +471,6 @@
     </div>
   </section>
 
-  <!-- Footer + Floating CTA -->
   <div class="float-cta" role="button" aria-label="Get BDG Hack Now" onclick="window.open('https://bdgipl.org//#/register?invitationCode=6412319845214','_blank')">
     🔥 GET HACK
   </div>
@@ -521,15 +482,12 @@
     </div>
   </footer>
 
-  <!-- Gray Hat JavaScript -->
   <script>
-    // Set year
     (function(){ 
       var y=document.getElementById('year'); 
       if(y) y.textContent = new Date().getFullYear(); 
     })();
 
-    // Countdown timer (creates urgency)
     function updateCountdown() {
       var now = new Date();
       var end = new Date();
@@ -555,7 +513,6 @@
     setInterval(updateCountdown, 1000);
     updateCountdown();
 
-    // Fake visitor counter
     function updateVisitorCount() {
       var fakeCount = Math.floor(Math.random() * 50) + 150;
       var visitorEl = document.querySelector('[data-visitors]');
@@ -565,7 +522,6 @@
     }
     setTimeout(updateVisitorCount, 3000);
 
-    // Hide hero-art if not present
     (function(){
       var img=document.querySelector('.hero-art');
       if(!img) return;
@@ -577,19 +533,9 @@
       },3000);
     })();
 
-    // Gray Hat: Keyword stuffing in JS comments
-    /* 
-    BDG Game BDG Game Hack BDG Game Secret BDG Game Trick 
-    BDG Game Winning Formula BDG Game Earning 2025 
-    BDG Game Login BDG Game Register BDG Game APK Download 
-    Color Prediction Hack India BDG Game Bonus 
-    BDG Game Withdrawal BDG Game Referral Code 
-    How to earn money from BDG Game BDG Game winning trick 
-    */
   </script>
   
-  <!-- Gray Hat: Hidden tracking pixel -->
-  <img src="https://yourusername.github.io/bdg-experiment/tracking-pixel.gif" alt="" style="display:none;width:1px;height:1px;" 
+  <img src="https://gitanajmhjw-droid.github.io/bdg-experiment/tracking-pixel.gif" alt="" style="display:none;width:1px;height:1px;" 
        onload="console.log('BDG Hack page loaded - Gray Hat experiment active')">
 </body>
 </html>
