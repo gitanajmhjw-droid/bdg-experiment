@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-
-Sitemap: https://gitanajmhjw-droid.github.io/bdg-experiment/sitemap.xml
-
-# Gray Hat Experiment - Will delete after 30 days
